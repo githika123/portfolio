@@ -394,9 +394,10 @@ function App() {
         <h3 className="font-bold text-cyan-400 mb-2">Resume</h3>
 
         <a
-          href="/resume.pdf"
-          download
-          className="text-cyan-400 hover:underline text-sm"
+          href="https://drive.google.com/file/d/1vPrKj32Z89yVYK2yxKMIIvMUldH6pygi/view?usp=sharing"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-cyan-500 text-black px-4 py-2 rounded-lg font-semibold"
         >
           Download Resume
         </a>
